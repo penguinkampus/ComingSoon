@@ -1,17 +1,17 @@
-# ComingSoon
-Feel free to anyone using this Coming Soon template.
+# UnderConstruction
+Feel free to anyone using this Under Construction template.
 
 ## Getting Started
 To begin using this system, choose one of the following options to get started:
 * Download from my repo
-* Clone the repo: `git clone https://github.com/penguinkampus/ComingSoon.git`
+* Clone the repo: `git clone https://github.com/penguinkampus/UnderConstruction.git`
 * Fork the repo
 
 ## Bugs and Issues
-Have a bug or an issue with this website? [Open a new issue](https://github.com/penguinkampus/ComingSoon/issues) here on GitHub or leave a comment on the [Coming Soon](https://github.com/penguinkampus/ComingSoon).
+Have a bug or an issue with this website? [Open a new issue](https://github.com/penguinkampus/UnderConstruction/issues) here on GitHub or leave a comment on the [Under Construction](https://github.com/penguinkampus/UnderConstruction).
 
 ## Creator
-**Coming Soon** was modified by **[Muhammad Iqbal Pamungkas](https://me.suaiq.com/)**
+**Under Construction** was modified by **[Muhammad Iqbal Pamungkas](https://me.suaiq.com/)**
 
 ## System Requirements:
 - Nginx, MariaDB/Mysql, Php 5.6 or newer
@@ -25,4 +25,4 @@ Chrome 35+, Firefox 31+, Safari 7+, IE 10+
   - Using Bootstrap CSS
 
 ## Copyright and License
-Copyright 2016-2018 Muhammad Iqbal Pamungkas. Code released under the [MIT](https://github.com/penguinkampus/ComingSoon/blob/master/LICENSE) license.
+Copyright 2018 Muhammad Iqbal Pamungkas. Code released under the [MIT](https://github.com/penguinkampus/UnderConstruction/blob/master/LICENSE) license.
