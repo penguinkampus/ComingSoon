@@ -41,25 +41,25 @@
                 Stay tuned for something amazing!</h3>
                 <ul class="intro-social-buttons">
                   <li>
-                      <a href="http://blog.suaiq.com" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Blog</span></a>
+                      <a href="http://blog.suaiq.com" target="_blank" class="btn btn-lg btn-grad btn-trans"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Blog</span></a>
                   </li>
                   <li>
-                      <a href="https://www.linkedin.com/company/suaiq/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                      <a href="https://www.linkedin.com/company/suaiq/" target="_blank" class="btn btn-lg btn-grad btn-trans"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                   </li>
                   <li>
-                      <a href="https://github.com/penguinkampus" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                      <a href="https://github.com/penguinkampus" target="_blank" class="btn btn-lg btn-grad btn-trans"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                   </li>
                   <li>
-                      <a href="https://www.instagram.com/suaiqtech/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
+                      <a href="https://www.instagram.com/suaiqtech/" target="_blank" class="btn btn-lg btn-grad btn-trans"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
                   </li>
                   <li>
-                      <a href="http://bit.ly/2oS9X33" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                      <a href="http://bit.ly/2oS9X33" target="_blank" class="btn btn-lg btn-grad btn-trans"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                   </li>
                 </ul>
             </div>
 
             <div class="intro-footer">
-                <p class="copyright text-muted small">Copyright &copy; 2017-2018. All Rights Reserved</p>
+                <p class="copyright text-muted small">Copyright &copy; <?php echo date("Y"); ?>. All Rights Reserved</p>
             </div>
         </div>
         <!-- /.container -->
